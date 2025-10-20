@@ -58,8 +58,12 @@ if [[ -n $(git status --porcelain) ]]; then
     if git commit -m "$COMMIT_MSG"; then
         log "✓ Git 提交成功: $COMMIT_MSG"
 
-        # 如果配置了远程仓库，自动推送（可选）
-        # git push origin main 2>&1 | tee -a "$LOG_FILE"
+        # 自动推送到远程仓库
+        if git push origin main 2>&1 | tee -a "$LOG_FILE"; then
+            log "✓ Git 推送成功"
+        else
+            log "✗ Git 推送失败，请检查网络或权限"
+        fi
     else
         log "✗ Git 提交失败"
     fi
