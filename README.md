@@ -9,7 +9,7 @@
 
 ## 定时任务
 
-已配置 launchd 定时任务，**每天凌晨 2:00** 自动更新备份并提交到 Git。
+已配置 launchd 定时任务，**每周三下午 3:30** 自动更新备份并提交到 Git。
 
 ### 管理命令
 
@@ -55,10 +55,12 @@ cat /Users/ggg/private/homebrew/brew-casks.txt | xargs brew install --cask
 ```xml
 <key>StartCalendarInterval</key>
 <dict>
+    <key>Weekday</key>
+    <integer>3</integer>  <!-- 星期几 (0=周日, 1=周一, ..., 6=周六) 不设置则每天 -->
     <key>Hour</key>
-    <integer>2</integer>  <!-- 修改小时 (0-23) -->
+    <integer>15</integer>  <!-- 修改小时 (0-23) -->
     <key>Minute</key>
-    <integer>0</integer>  <!-- 修改分钟 (0-59) -->
+    <integer>30</integer>  <!-- 修改分钟 (0-59) -->
 </dict>
 ```
 
