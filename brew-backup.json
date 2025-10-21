@@ -38,46 +38,46 @@
       "bottle": {
         "stable": {
           "rebuild": 2,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.arm64_tahoe.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:04c6d861b0cbd3bf162c991b5e4f12bc988e419750f684fb9156efdd09811f21",
               "sha256": "04c6d861b0cbd3bf162c991b5e4f12bc988e419750f684fb9156efdd09811f21"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.arm64_sequoia.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:64750425b7578860d8b6a75fdb187408667f7d6523169e8dc29528bbc15309f0",
               "sha256": "64750425b7578860d8b6a75fdb187408667f7d6523169e8dc29528bbc15309f0"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.arm64_sonoma.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:e75e7d3e86aba0f1a48f59bab9d819dbdd52c22259fb893ff1e796ca4dc9be75",
               "sha256": "e75e7d3e86aba0f1a48f59bab9d819dbdd52c22259fb893ff1e796ca4dc9be75"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.arm64_ventura.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:531d7745ef045b6fe35a32f852d377a9bed6ea8a2c26828d8e18ce8388c1346e",
               "sha256": "531d7745ef045b6fe35a32f852d377a9bed6ea8a2c26828d8e18ce8388c1346e"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.sonoma.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:8934e84777d1c6f63d6e4c07213731c9af1b7a66d5f0a6b3ef0bb6d56bb63a86",
               "sha256": "8934e84777d1c6f63d6e4c07213731c9af1b7a66d5f0a6b3ef0bb6d56bb63a86"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.ventura.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:59cbd7977b1e037c70d43e339dec2a8631d1360ceb4aa1f4a7780e2c4fef3540",
               "sha256": "59cbd7977b1e037c70d43e339dec2a8631d1360ceb4aa1f4a7780e2c4fef3540"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.arm64_linux.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:72028690302ef20e9dcf10cd6405a8d8b736688ebd4ad7203078ee57be0f92fe",
               "sha256": "72028690302ef20e9dcf10cd6405a8d8b736688ebd4ad7203078ee57be0f92fe"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/brotli-1.1.0.x86_64_linux.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/brotli/blobs/sha256:e1502cc6efe4e7b2835b1a8cb34536acee19d3c48ea3a440b57d88e5cab2ca81",
               "sha256": "e1502cc6efe4e7b2835b1a8cb34536acee19d3c48ea3a440b57d88e5cab2ca81"
             }
           }
@@ -172,46 +172,46 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:f1ea4e3a48f43370fac2a1d2c285e87fadc48ab3dbda63b39d8eb04b025925d7",
               "sha256": "f1ea4e3a48f43370fac2a1d2c285e87fadc48ab3dbda63b39d8eb04b025925d7"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:76858a7f6dd6df68f7e9d13aca30a299d5947b5b6d6ce979ee660dd4ecca2bb6",
               "sha256": "76858a7f6dd6df68f7e9d13aca30a299d5947b5b6d6ce979ee660dd4ecca2bb6"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:5bc958432063e6dc18633d06f1ef2a6939c60bfc60d3d9162183c71556e21198",
               "sha256": "5bc958432063e6dc18633d06f1ef2a6939c60bfc60d3d9162183c71556e21198"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.arm64_ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:60dcb45f4148187db1aa35a2ea1fd195126448b0c013fb04ec2412788c09156a",
               "sha256": "60dcb45f4148187db1aa35a2ea1fd195126448b0c013fb04ec2412788c09156a"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:c152939c8cbf3784c07d1c335fa4d8a279926613ef8a63fd8b86ce0c9fc2c1ce",
               "sha256": "c152939c8cbf3784c07d1c335fa4d8a279926613ef8a63fd8b86ce0c9fc2c1ce"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:ec24a40eb0839a531fefd518d459d9096594c8d5f99073cb14dd90818aac1443",
               "sha256": "ec24a40eb0839a531fefd518d459d9096594c8d5f99073cb14dd90818aac1443"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:7edb30f8604f12af709a3edd142cd1e4e0fa6d6ac9592ccd81687dac5344400a",
               "sha256": "7edb30f8604f12af709a3edd142cd1e4e0fa6d6ac9592ccd81687dac5344400a"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/c-ares-1.34.5.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/c-ares/blobs/sha256:222c77a232de91b511238cf81f3290b5e5f7d788f7011a447ad92ae38089fa72",
               "sha256": "222c77a232de91b511238cf81f3290b5e5f7d788f7011a447ad92ae38089fa72"
             }
           }
@@ -301,11 +301,11 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "all": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ca-certificates-2025-09-09.all.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:bf8219c33f6de8c2554cff8bcff1e9061ba61e9201acdabf6955347a3b72eb03",
               "sha256": "bf8219c33f6de8c2554cff8bcff1e9061ba61e9201acdabf6955347a3b72eb03"
             }
           }
@@ -398,46 +398,46 @@
       "bottle": {
         "stable": {
           "rebuild": 2,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.arm64_tahoe.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:0682c28b17ef7f44de34a1fd7a6d3eba5b40b8428f78c18462619386bd564cb2",
               "sha256": "0682c28b17ef7f44de34a1fd7a6d3eba5b40b8428f78c18462619386bd564cb2"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.arm64_sequoia.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:618006e5a13a64c6efbf793329f2b5a2778533103cc00d754deeea03c99cffe8",
               "sha256": "618006e5a13a64c6efbf793329f2b5a2778533103cc00d754deeea03c99cffe8"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.arm64_sonoma.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:4d14d8b6965955bf2ac40e3b894a11285c734875ab1fd672ff6ce8dfeda273a1",
               "sha256": "4d14d8b6965955bf2ac40e3b894a11285c734875ab1fd672ff6ce8dfeda273a1"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.arm64_ventura.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:1854cbacdb3b91f469bb877a3498a45a7dc5035520d0c62e1963929ddc4a3c86",
               "sha256": "1854cbacdb3b91f469bb877a3498a45a7dc5035520d0c62e1963929ddc4a3c86"
             },
             "arm64_monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.arm64_monterey.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:c753d2d0d444ec7ba4b2b1035863da1e77ae5fd5d82eb75fa7a1a41858366663",
               "sha256": "c753d2d0d444ec7ba4b2b1035863da1e77ae5fd5d82eb75fa7a1a41858366663"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.sonoma.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:53e88a9b0bb7c477056523e4c90920e0ba1bf5885a6e573722c0bd904586d23b",
               "sha256": "53e88a9b0bb7c477056523e4c90920e0ba1bf5885a6e573722c0bd904586d23b"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.ventura.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:dce7338c9367ac1b0ea16b2776ab33794d9b262e1abaa6edb3d831aa0b77e93c",
               "sha256": "dce7338c9367ac1b0ea16b2776ab33794d9b262e1abaa6edb3d831aa0b77e93c"
             },
             "monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/duti-1.5.4_1.monterey.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/duti/blobs/sha256:d1f488fdeb7eb2c5ca0dc3aaaf93bcb382004ff33b87439d0abf017dcb687cb7",
               "sha256": "d1f488fdeb7eb2c5ca0dc3aaaf93bcb382004ff33b87439d0abf017dcb687cb7"
             }
           }
@@ -546,36 +546,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fish-4.1.2.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fish/blobs/sha256:522ebefd01e47d714368b9872b46ba1791b580fe5acd88caadb0c92f2273d483",
               "sha256": "522ebefd01e47d714368b9872b46ba1791b580fe5acd88caadb0c92f2273d483"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fish-4.1.2.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fish/blobs/sha256:7c180ae437fb7c0a71f9135ae87cbfaec7af7f7a7658294071fb3f30bbf456cf",
               "sha256": "7c180ae437fb7c0a71f9135ae87cbfaec7af7f7a7658294071fb3f30bbf456cf"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fish-4.1.2.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fish/blobs/sha256:abb89a295c051cbf5bbee6a8b7d031e62c2a0bbe29867c9060164bcab7f27afa",
               "sha256": "abb89a295c051cbf5bbee6a8b7d031e62c2a0bbe29867c9060164bcab7f27afa"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fish-4.1.2.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fish/blobs/sha256:19b7023040a1a1741545b13368188ddc4b666a2f0fee4a2e28bf67bca3185b7c",
               "sha256": "19b7023040a1a1741545b13368188ddc4b666a2f0fee4a2e28bf67bca3185b7c"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fish-4.1.2.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fish/blobs/sha256:fb3e080c57e8cf057d094459f3d03c160d7aff7d05644ce4695c5f7ce354950d",
               "sha256": "fb3e080c57e8cf057d094459f3d03c160d7aff7d05644ce4695c5f7ce354950d"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fish-4.1.2.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fish/blobs/sha256:134b1366f068a171dbdda51cf0283423085d5cddcd32ff01894abe2aebdcf9bb",
               "sha256": "134b1366f068a171dbdda51cf0283423085d5cddcd32ff01894abe2aebdcf9bb"
             }
           }
@@ -697,36 +697,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fzf-0.66.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fzf/blobs/sha256:34eeee4580632d265e83e01d453eb35534d6a6b7d849f95c1a8e91eedc4e4d34",
               "sha256": "34eeee4580632d265e83e01d453eb35534d6a6b7d849f95c1a8e91eedc4e4d34"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fzf-0.66.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fzf/blobs/sha256:34eeee4580632d265e83e01d453eb35534d6a6b7d849f95c1a8e91eedc4e4d34",
               "sha256": "34eeee4580632d265e83e01d453eb35534d6a6b7d849f95c1a8e91eedc4e4d34"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fzf-0.66.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fzf/blobs/sha256:34eeee4580632d265e83e01d453eb35534d6a6b7d849f95c1a8e91eedc4e4d34",
               "sha256": "34eeee4580632d265e83e01d453eb35534d6a6b7d849f95c1a8e91eedc4e4d34"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fzf-0.66.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fzf/blobs/sha256:71087c8d8d010ad5d806223497bf9aa9aec932a1ac550f9d131ffa775c16207b",
               "sha256": "71087c8d8d010ad5d806223497bf9aa9aec932a1ac550f9d131ffa775c16207b"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fzf-0.66.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fzf/blobs/sha256:492255314aa7a150c17ef17da99f8bb843b55b93ab93a631661f565bb4838bcf",
               "sha256": "492255314aa7a150c17ef17da99f8bb843b55b93ab93a631661f565bb4838bcf"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/fzf-0.66.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/fzf/blobs/sha256:6a2166c6341bc7d9c92324a4e17d376a21f8bf9653e8109d3ecae3c72701d3eb",
               "sha256": "6a2166c6341bc7d9c92324a4e17d376a21f8bf9653e8109d3ecae3c72701d3eb"
             }
           }
@@ -820,46 +820,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:f1a3876bef27aa262949baa369395e4b9312845f79b86860124773ec6eef8608",
               "sha256": "f1a3876bef27aa262949baa369395e4b9312845f79b86860124773ec6eef8608"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:b25ac1e62443f8f79eadc3dadf6d3af954d4cbc33a0577fc626aa0c8f2bb01a5",
               "sha256": "b25ac1e62443f8f79eadc3dadf6d3af954d4cbc33a0577fc626aa0c8f2bb01a5"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:1615e931a23c6875c9bcae0ffccf5a4a35f796fb90b7192804c771cb25d766e2",
               "sha256": "1615e931a23c6875c9bcae0ffccf5a4a35f796fb90b7192804c771cb25d766e2"
             },
             "arm64_ventura": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:c9cf89dc04f56eb4939b00eea3c0361cd4498f8237e527f2f741682bf7e6de61",
               "sha256": "c9cf89dc04f56eb4939b00eea3c0361cd4498f8237e527f2f741682bf7e6de61"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:87ac92958d68cfd4c000879302cc8237f9ab38aec9429c6970b31667c3d53870",
               "sha256": "87ac92958d68cfd4c000879302cc8237f9ab38aec9429c6970b31667c3d53870"
             },
             "ventura": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:36da5ebc7064150238eb5fd4c9640ee9ef2482cabb9707357d0ab7b198bf9c4f",
               "sha256": "36da5ebc7064150238eb5fd4c9640ee9ef2482cabb9707357d0ab7b198bf9c4f"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:65da5d3da37d8ac70048648ec6c0680d5c22f9f55b4452a61374c8c267d1990f",
               "sha256": "65da5d3da37d8ac70048648ec6c0680d5c22f9f55b4452a61374c8c267d1990f"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gettext-0.26.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gettext/blobs/sha256:fce5e0fea8441a729599191161a94a03ce4328e5c7a276df4ec322ff5e92958f",
               "sha256": "fce5e0fea8441a729599191161a94a03ce4328e5c7a276df4ec322ff5e92958f"
             }
           }
@@ -969,36 +969,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gh-2.82.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:759385e25d67e744ad0692bd575f76a99410f0f5e9392d80caa3eb795a404167",
               "sha256": "759385e25d67e744ad0692bd575f76a99410f0f5e9392d80caa3eb795a404167"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gh-2.82.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:759385e25d67e744ad0692bd575f76a99410f0f5e9392d80caa3eb795a404167",
               "sha256": "759385e25d67e744ad0692bd575f76a99410f0f5e9392d80caa3eb795a404167"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gh-2.82.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:759385e25d67e744ad0692bd575f76a99410f0f5e9392d80caa3eb795a404167",
               "sha256": "759385e25d67e744ad0692bd575f76a99410f0f5e9392d80caa3eb795a404167"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gh-2.82.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:87b4201378d596b3c4b66068c61803edc468eb0f630a18b3a69c5104c2cb1353",
               "sha256": "87b4201378d596b3c4b66068c61803edc468eb0f630a18b3a69c5104c2cb1353"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gh-2.82.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:b0a5fa3c8ed249834de1219821a929f7904cc4244ca0418c5fb7cfca43b2b97e",
               "sha256": "b0a5fa3c8ed249834de1219821a929f7904cc4244ca0418c5fb7cfca43b2b97e"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gh-2.82.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gh/blobs/sha256:f427e168a92aa08ac884da4b6130f355f72674e7b768d6e9f0bdc3e9d9fad6ac",
               "sha256": "f427e168a92aa08ac884da4b6130f355f72674e7b768d6e9f0bdc3e9d9fad6ac"
             }
           }
@@ -1093,36 +1093,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/git-2.51.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:754a766545654c504e744298b09b805f734ea4c71f53ed9469c3fe1398802093",
               "sha256": "754a766545654c504e744298b09b805f734ea4c71f53ed9469c3fe1398802093"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/git-2.51.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:7cbefd96707313f71a59e05a68acc3246a575b41799f4ed8cac73f6c3d1cf25b",
               "sha256": "7cbefd96707313f71a59e05a68acc3246a575b41799f4ed8cac73f6c3d1cf25b"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/git-2.51.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:35decef8080419a2b4b2ed91bd2840f60f5f84cc9ec4310be210c3c82e5804e3",
               "sha256": "35decef8080419a2b4b2ed91bd2840f60f5f84cc9ec4310be210c3c82e5804e3"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/git-2.51.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:47cad57e7b4d4226b89d2dcd9b7f0ef270b4b3d57040b4047b1fe235c7403532",
               "sha256": "47cad57e7b4d4226b89d2dcd9b7f0ef270b4b3d57040b4047b1fe235c7403532"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/git-2.51.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:5e1e125d4bcd2991cd8d2e574d15ecaf3f9f1aa3ee23fe29d5d6cfbd3458872a",
               "sha256": "5e1e125d4bcd2991cd8d2e574d15ecaf3f9f1aa3ee23fe29d5d6cfbd3458872a"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/git-2.51.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/git/blobs/sha256:deb541f638e9483cec1d413dd1087497d972266298b4d2d41371e6233dc6229b",
               "sha256": "deb541f638e9483cec1d413dd1087497d972266298b4d2d41371e6233dc6229b"
             }
           }
@@ -1261,36 +1261,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/go-1.25.3.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:b7286d65cab0cbb069386268ba3cf2c183cb03728f19cece2af32526a5c60516",
               "sha256": "b7286d65cab0cbb069386268ba3cf2c183cb03728f19cece2af32526a5c60516"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/go-1.25.3.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:b7286d65cab0cbb069386268ba3cf2c183cb03728f19cece2af32526a5c60516",
               "sha256": "b7286d65cab0cbb069386268ba3cf2c183cb03728f19cece2af32526a5c60516"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/go-1.25.3.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:b7286d65cab0cbb069386268ba3cf2c183cb03728f19cece2af32526a5c60516",
               "sha256": "b7286d65cab0cbb069386268ba3cf2c183cb03728f19cece2af32526a5c60516"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/go-1.25.3.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:34af6f1e86b0ab33f4d5043fefdbefcb5957912cfb97d54f72548354276846d4",
               "sha256": "34af6f1e86b0ab33f4d5043fefdbefcb5957912cfb97d54f72548354276846d4"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/go-1.25.3.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:938362aa2f811c17b7fd78256a8de4efa0583bb5611588a0ed31f9dce3cfc3f9",
               "sha256": "938362aa2f811c17b7fd78256a8de4efa0583bb5611588a0ed31f9dce3cfc3f9"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/go-1.25.3.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/go/blobs/sha256:ba9e247931690fb2df23e9a0ee8dc79d42e2658bd45f726f58df0e89b778d842",
               "sha256": "ba9e247931690fb2df23e9a0ee8dc79d42e2658bd45f726f58df0e89b778d842"
             }
           }
@@ -1395,46 +1395,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0",
               "sha256": "d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0",
               "sha256": "d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0",
               "sha256": "d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0",
               "sha256": "d4551615ecf46efb1b4d0c0cf63ca7be7dc3aab0ac7fbd239a9e026b8db02bb0"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:834a798fe891e01a6aa6f7001921807428f7b08f00074093b61d9db2f62a8a0e",
               "sha256": "834a798fe891e01a6aa6f7001921807428f7b08f00074093b61d9db2f62a8a0e"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:834a798fe891e01a6aa6f7001921807428f7b08f00074093b61d9db2f62a8a0e",
               "sha256": "834a798fe891e01a6aa6f7001921807428f7b08f00074093b61d9db2f62a8a0e"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:9f234ab78d80bccc966e642f5cdcb20383490c8ff70ec360719e56af106fdd31",
               "sha256": "9f234ab78d80bccc966e642f5cdcb20383490c8ff70ec360719e56af106fdd31"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/gofumpt-0.9.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/gofumpt/blobs/sha256:9b7d8a96c584746e862c805a12270d139d9c204b358f2a0ad3648d391ff86612",
               "sha256": "9b7d8a96c584746e862c805a12270d139d9c204b358f2a0ad3648d391ff86612"
             }
           }
@@ -1539,46 +1539,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:57af4061e0e0d0b6266470343d2db56fc51a0cbaa1bd459bd3bee3c916c0fab9",
               "sha256": "57af4061e0e0d0b6266470343d2db56fc51a0cbaa1bd459bd3bee3c916c0fab9"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:19f6b5fef0cdf1dfc7f136ca103348ec8530ffdf8012273f6ee4a6159cdfaf75",
               "sha256": "19f6b5fef0cdf1dfc7f136ca103348ec8530ffdf8012273f6ee4a6159cdfaf75"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:f2b3a9d78e046b3b1ca1f06227272c0ea25490bd8efa4c98a33ffdcc734452ff",
               "sha256": "f2b3a9d78e046b3b1ca1f06227272c0ea25490bd8efa4c98a33ffdcc734452ff"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:425a38eb7a7a1bb54dd25ac58194ef89d79caf1777a01fb244ed37487c1f7d80",
               "sha256": "425a38eb7a7a1bb54dd25ac58194ef89d79caf1777a01fb244ed37487c1f7d80"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:54d609febedd08e8a4a825435d85f6d4db045f586523edb8965434e8e9c93fa6",
               "sha256": "54d609febedd08e8a4a825435d85f6d4db045f586523edb8965434e8e9c93fa6"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:6f04d1757707495212ff68722bab629766329874ef7d0531e756903dff5022cb",
               "sha256": "6f04d1757707495212ff68722bab629766329874ef7d0531e756903dff5022cb"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:6d633e676a17c418e7e1e6e58d41a7c61856f06cf198a3efa97e4a5489ab0196",
               "sha256": "6d633e676a17c418e7e1e6e58d41a7c61856f06cf198a3efa97e4a5489ab0196"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/icu4c%4077-77.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/icu4c/77/blobs/sha256:f82d4ca07fbdcf99cb5553ae9cf298bbff475a465f13e1c5d934dcbcb1e14741",
               "sha256": "f82d4ca07fbdcf99cb5553ae9cf298bbff475a465f13e1c5d934dcbcb1e14741"
             }
           }
@@ -1669,46 +1669,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:7922c7d39301812f11f49cc564c79b7e24822a6650216fb102e6209c837cef15",
               "sha256": "7922c7d39301812f11f49cc564c79b7e24822a6650216fb102e6209c837cef15"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:902884745603d3d55cdbe5e30ca2972a1d0829ae2512f6ef8e8731d92a607938",
               "sha256": "902884745603d3d55cdbe5e30ca2972a1d0829ae2512f6ef8e8731d92a607938"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:5dc445bcf366abc34e62ae564695d123ce24ee9c0d625de7c62f4d0785a110ba",
               "sha256": "5dc445bcf366abc34e62ae564695d123ce24ee9c0d625de7c62f4d0785a110ba"
             },
             "arm64_ventura": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:ac9341e0db85afbf17f8d923d67527d5d6cac7c9dd0da09dbab36ffe5d9c2a02",
               "sha256": "ac9341e0db85afbf17f8d923d67527d5d6cac7c9dd0da09dbab36ffe5d9c2a02"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:b6af4b9221012af0d3e7d364713d1ce95cc10e490973b66766fe3113409f0acd",
               "sha256": "b6af4b9221012af0d3e7d364713d1ce95cc10e490973b66766fe3113409f0acd"
             },
             "ventura": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:3816d54634a8bee2ac51dda7c8cb5fd6dc3e9a25693c9242b9b80f4c9c262fd1",
               "sha256": "3816d54634a8bee2ac51dda7c8cb5fd6dc3e9a25693c9242b9b80f4c9c262fd1"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:5d657c89c3796d2acc33c0af7e707df90866fc8b83d20c0b80df7178005d2595",
               "sha256": "5d657c89c3796d2acc33c0af7e707df90866fc8b83d20c0b80df7178005d2595"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/krb5-1.22.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/krb5/blobs/sha256:fe519bd1bd2742d34763055beac8767693c1a8a8c412259829f39b9d1a6c6a66",
               "sha256": "fe519bd1bd2742d34763055beac8767693c1a8a8c412259829f39b9d1a6c6a66"
             }
           }
@@ -1831,36 +1831,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp2-1.67.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:7af9a46b07106070e46b54480d7aac67d3b97c75a247c3d12fecfd45e28986ee",
               "sha256": "7af9a46b07106070e46b54480d7aac67d3b97c75a247c3d12fecfd45e28986ee"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp2-1.67.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:01a4aa08a2238d55085fe6ad55d6946a69490f333e934f5fb23d77ab3a80c3d1",
               "sha256": "01a4aa08a2238d55085fe6ad55d6946a69490f333e934f5fb23d77ab3a80c3d1"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp2-1.67.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:522f511f937f4afe080adc1ff299fd3b65725da408ac4da5a35aa585ea3541cf",
               "sha256": "522f511f937f4afe080adc1ff299fd3b65725da408ac4da5a35aa585ea3541cf"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp2-1.67.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:1f1af7129a29e9c9b05a6fe28eceaf3dd8806d84972f48d22eaa1f04569939e6",
               "sha256": "1f1af7129a29e9c9b05a6fe28eceaf3dd8806d84972f48d22eaa1f04569939e6"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp2-1.67.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:773ae491ab228c7c4a94ab425a1a1f3002d8a3f8d999fa6517523e267e56e29f",
               "sha256": "773ae491ab228c7c4a94ab425a1a1f3002d8a3f8d999fa6517523e267e56e29f"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp2-1.67.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp2/blobs/sha256:170724e4c9caa7a1448c902fddd1971b63241040df03b1b212beb5853c3b1b34",
               "sha256": "170724e4c9caa7a1448c902fddd1971b63241040df03b1b212beb5853c3b1b34"
             }
           }
@@ -1977,36 +1977,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp3-1.12.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp3/blobs/sha256:e284d356865af5e93210253ef973a4f90692b560627eba68e54cf47527a386a5",
               "sha256": "e284d356865af5e93210253ef973a4f90692b560627eba68e54cf47527a386a5"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp3-1.12.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp3/blobs/sha256:1eb2c780340d21a766a0e7f4a7f2ae330377340d8a272fa0ad5d144ca709cca5",
               "sha256": "1eb2c780340d21a766a0e7f4a7f2ae330377340d8a272fa0ad5d144ca709cca5"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp3-1.12.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp3/blobs/sha256:9ca811ccb32e85dacdf552d23f3fb461cd7892408cd9db5cf8ba71229ddd3e8c",
               "sha256": "9ca811ccb32e85dacdf552d23f3fb461cd7892408cd9db5cf8ba71229ddd3e8c"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp3-1.12.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp3/blobs/sha256:81311931d8acb0cb2cb216c87bb17c9fe2abb19bff1edcf35436d75b0997f06c",
               "sha256": "81311931d8acb0cb2cb216c87bb17c9fe2abb19bff1edcf35436d75b0997f06c"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp3-1.12.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp3/blobs/sha256:55a4b0298d894b1a45f56c3480a1368b58333a04f2ab97cbd64f434c7c89d798",
               "sha256": "55a4b0298d894b1a45f56c3480a1368b58333a04f2ab97cbd64f434c7c89d798"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libnghttp3-1.12.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libnghttp3/blobs/sha256:a58df7a8c2219f36db9057662b7d1fd5ee6ef345839b51e168ade2396514b291",
               "sha256": "a58df7a8c2219f36db9057662b7d1fd5ee6ef345839b51e168ade2396514b291"
             }
           }
@@ -2101,36 +2101,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libngtcp2-1.17.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libngtcp2/blobs/sha256:a70f750eb0cc3afb5e199dffb127d4f688dd63c758b23ab79f95e131aecd777c",
               "sha256": "a70f750eb0cc3afb5e199dffb127d4f688dd63c758b23ab79f95e131aecd777c"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libngtcp2-1.17.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libngtcp2/blobs/sha256:382644b013aaa31d42ee620515259cd8588f5e27ca7707febd4370959fb02bed",
               "sha256": "382644b013aaa31d42ee620515259cd8588f5e27ca7707febd4370959fb02bed"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libngtcp2-1.17.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libngtcp2/blobs/sha256:7e40f64c028902984431c01d865e782fb5157c51ac736c860ef93cb20e63cc03",
               "sha256": "7e40f64c028902984431c01d865e782fb5157c51ac736c860ef93cb20e63cc03"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libngtcp2-1.17.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libngtcp2/blobs/sha256:279e17de0c8b5c87ee81b95babfabd42a485afa0eaca39e349a6b1fbbe121f83",
               "sha256": "279e17de0c8b5c87ee81b95babfabd42a485afa0eaca39e349a6b1fbbe121f83"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libngtcp2-1.17.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libngtcp2/blobs/sha256:656f94bac5fa1bae366054b021db804d958f3b8c0c4b94e9a1f238b8808d6abd",
               "sha256": "656f94bac5fa1bae366054b021db804d958f3b8c0c4b94e9a1f238b8808d6abd"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libngtcp2-1.17.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libngtcp2/blobs/sha256:d499c01a90f66d1aed33a628a40e868b45bc959ab17cbecbb5a9f1d87e72dff9",
               "sha256": "d499c01a90f66d1aed33a628a40e868b45bc959ab17cbecbb5a9f1d87e72dff9"
             }
           }
@@ -2239,36 +2239,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libunistring-1.4.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:b9abc2b3782640cabca4ee0e0e2072478f4eab5c3c74bfdb8a9fbf2eff80c4b1",
               "sha256": "b9abc2b3782640cabca4ee0e0e2072478f4eab5c3c74bfdb8a9fbf2eff80c4b1"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libunistring-1.4.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:dbc874f78025281d97cf683531c635a6a4195b928f1af4288bda71e6dba723cd",
               "sha256": "dbc874f78025281d97cf683531c635a6a4195b928f1af4288bda71e6dba723cd"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libunistring-1.4.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:7b03a079d5408f0d111accb2331f8f881fbb9e395ee05a583ca436c218ff44e1",
               "sha256": "7b03a079d5408f0d111accb2331f8f881fbb9e395ee05a583ca436c218ff44e1"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libunistring-1.4.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:4e3960f18ae73ba2bdb6b046431c9fac5936138cb68f454752b8e7de0aea54f8",
               "sha256": "4e3960f18ae73ba2bdb6b046431c9fac5936138cb68f454752b8e7de0aea54f8"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libunistring-1.4.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:f79d9d9e62971a416bff77be8f9b50251514941a859f4a92c469e7996ffe715c",
               "sha256": "f79d9d9e62971a416bff77be8f9b50251514941a859f4a92c469e7996ffe715c"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libunistring-1.4.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libunistring/blobs/sha256:f870ec882a5579d1d26fe194454b7c32559268cc0854758b85690385ce844d32",
               "sha256": "f870ec882a5579d1d26fe194454b7c32559268cc0854758b85690385ce844d32"
             }
           }
@@ -2361,46 +2361,46 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:4baeae937cc36f3daf93336337b69357f9b666ec89ecb4937999f46cde964627",
               "sha256": "4baeae937cc36f3daf93336337b69357f9b666ec89ecb4937999f46cde964627"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:47f6323a3b3ac0d2026ac75948e54b940bce1cc2ed3b809818bada0fca0b402b",
               "sha256": "47f6323a3b3ac0d2026ac75948e54b940bce1cc2ed3b809818bada0fca0b402b"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:594446ed876368a6ef6bf158fb6e1fdadd3973b1813846994423f417a7e5b965",
               "sha256": "594446ed876368a6ef6bf158fb6e1fdadd3973b1813846994423f417a7e5b965"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.arm64_ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:db92705f40c7175fc957ad40ca096ab9577d20ea0d6782e7051bb1e0a1df21b1",
               "sha256": "db92705f40c7175fc957ad40ca096ab9577d20ea0d6782e7051bb1e0a1df21b1"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:89296bb1520f6d2f60061a6dee3c8f0ad4a86e69e37c4c452223267a411b0c35",
               "sha256": "89296bb1520f6d2f60061a6dee3c8f0ad4a86e69e37c4c452223267a411b0c35"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:c760f64fff00acf565b63456ea48c6f8348eb58d81aa8632acb6bfc209455bd3",
               "sha256": "c760f64fff00acf565b63456ea48c6f8348eb58d81aa8632acb6bfc209455bd3"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:bcfffc19eff957b8cdc9f007580435ce70d6315c19f737c55c9979f43e14955f",
               "sha256": "bcfffc19eff957b8cdc9f007580435ce70d6315c19f737c55c9979f43e14955f"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/libuv-1.51.0.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/libuv/blobs/sha256:674de0e23792c9d2135a04cd3df09655e68768a30e393f16fd527de1c9df7579",
               "sha256": "674de0e23792c9d2135a04cd3df09655e68768a30e393f16fd527de1c9df7579"
             }
           }
@@ -2496,66 +2496,66 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:caf14ac1b6c922611db94615341ed6dc97f5601664280bc1d397e10f62e37222",
               "sha256": "caf14ac1b6c922611db94615341ed6dc97f5601664280bc1d397e10f62e37222"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:5bd143b7b784989e549637ea4e484af85ba481e640dde69bc35f3843ae25abc6",
               "sha256": "5bd143b7b784989e549637ea4e484af85ba481e640dde69bc35f3843ae25abc6"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:6590245dc4a919c46afa16366914cd4b5c0c4a8f4fb35a4f6ab89053f289ae5d",
               "sha256": "6590245dc4a919c46afa16366914cd4b5c0c4a8f4fb35a4f6ab89053f289ae5d"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.arm64_ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:03119aa78b7a96d4b8fde7553f5601ff104d59156aca4086a2af7aaec6cba5a4",
               "sha256": "03119aa78b7a96d4b8fde7553f5601ff104d59156aca4086a2af7aaec6cba5a4"
             },
             "arm64_monterey": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.arm64_monterey.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:3ace9946a02899abcc0b8852863a62e70e1eec91deffa579512f0e6c493738a3",
               "sha256": "3ace9946a02899abcc0b8852863a62e70e1eec91deffa579512f0e6c493738a3"
             },
             "tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:c30d8dad4decfc0f129c4593a304fd2e3fa854058f24310ee9900d6230730e94",
               "sha256": "c30d8dad4decfc0f129c4593a304fd2e3fa854058f24310ee9900d6230730e94"
             },
             "sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:f75cb29a4d25d37e1db38d95c5970cc45de7ec63ce43cfa881a877b424154a42",
               "sha256": "f75cb29a4d25d37e1db38d95c5970cc45de7ec63ce43cfa881a877b424154a42"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:96c1ed07b013308a9c205a56c0232e45ae7da70e28200c9adb03ec78b294bffd",
               "sha256": "96c1ed07b013308a9c205a56c0232e45ae7da70e28200c9adb03ec78b294bffd"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:c7bd3ba214fd8713268012f5bd71a95dee9623de0e373a38dc3426ea8b9293c3",
               "sha256": "c7bd3ba214fd8713268012f5bd71a95dee9623de0e373a38dc3426ea8b9293c3"
             },
             "monterey": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.monterey.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:f78cc448808d04a0c31b108d7da962020e062179e29c7d0a2303db7866d8e449",
               "sha256": "f78cc448808d04a0c31b108d7da962020e062179e29c7d0a2303db7866d8e449"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:e1d4b1bd9069ee0a313d2813d59b3e9217a893aba519707da2ba0b848bc1f727",
               "sha256": "e1d4b1bd9069ee0a313d2813d59b3e9217a893aba519707da2ba0b848bc1f727"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/lz4-1.10.0.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/lz4/blobs/sha256:a8082c2e40dc6d63850f43ea8fa095e55adf18fb0f25ec66bcaee2c4b4438205",
               "sha256": "a8082c2e40dc6d63850f43ea8fa095e55adf18fb0f25ec66bcaee2c4b4438205"
             }
           }
@@ -2648,71 +2648,71 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:9863f54426db9df99173be319b283ec3a08d5dbd320987259676d2ddbb05b9f0",
               "sha256": "9863f54426db9df99173be319b283ec3a08d5dbd320987259676d2ddbb05b9f0"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:f8988b4b5f85474931db021d3b5968576f2be4b151c00d943441196f4186324f",
               "sha256": "f8988b4b5f85474931db021d3b5968576f2be4b151c00d943441196f4186324f"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:1801aa7c1c50a3f7a11d44cdf9e37a57da7cb7471d0fb495b7df40843b47858e",
               "sha256": "1801aa7c1c50a3f7a11d44cdf9e37a57da7cb7471d0fb495b7df40843b47858e"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:af89337b73c8d4bb20c0cdfeeaccc17b620d8badf39edfb06a8fb191ec328c36",
               "sha256": "af89337b73c8d4bb20c0cdfeeaccc17b620d8badf39edfb06a8fb191ec328c36"
             },
             "arm64_monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.arm64_monterey.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:caadb67940cb551fc16122dc0486cac6a0dc948ccbdf90a5ee75219d4a437fa0",
               "sha256": "caadb67940cb551fc16122dc0486cac6a0dc948ccbdf90a5ee75219d4a437fa0"
             },
             "arm64_big_sur": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.arm64_big_sur.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:9529f010878e1b25e9e65ba68cb541e45878e09c65ad07c9e38090b8f9ed4383",
               "sha256": "9529f010878e1b25e9e65ba68cb541e45878e09c65ad07c9e38090b8f9ed4383"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:192c46a98732881bdd19acd6da8799ad9a931dbb9b895d22408a8eb8539f822e",
               "sha256": "192c46a98732881bdd19acd6da8799ad9a931dbb9b895d22408a8eb8539f822e"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:3bf38fc51225b8042bb2b7274dbf3c1deef6fc0a3db2886c9ab4fe6a8105b851",
               "sha256": "3bf38fc51225b8042bb2b7274dbf3c1deef6fc0a3db2886c9ab4fe6a8105b851"
             },
             "monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.monterey.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:dedd5384a47f6e10702990d15787658cb33ae5c8f45a96869adcc4e0c730b810",
               "sha256": "dedd5384a47f6e10702990d15787658cb33ae5c8f45a96869adcc4e0c730b810"
             },
             "big_sur": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.big_sur.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:26dd205eb0e33469922e8fd3b1828e91b2dfa920c7ffc2cc6f48494fd1c23d07",
               "sha256": "26dd205eb0e33469922e8fd3b1828e91b2dfa920c7ffc2cc6f48494fd1c23d07"
             },
             "catalina": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.catalina.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:19ed89b5ee9243e2d6880462ac1b0fcec4db64d4b6f2cefe423b248050b6ae15",
               "sha256": "19ed89b5ee9243e2d6880462ac1b0fcec4db64d4b6f2cefe423b248050b6ae15"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:231294ec75a53e64f54d300c71d8b28a4b7c89ba468d426dc751ef242e9876d6",
               "sha256": "231294ec75a53e64f54d300c71d8b28a4b7c89ba468d426dc751ef242e9876d6"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mkcert-1.4.4.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mkcert/blobs/sha256:f674faa8be61e225ae604b2ffe215927f6ecbc992aac75e769185862820d2881",
               "sha256": "f674faa8be61e225ae604b2ffe215927f6ecbc992aac75e769185862820d2881"
             }
           }
@@ -2804,56 +2804,56 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:518dd69097ceef4b2f5b51603d930d7f5a334237c52b83f8d9822e58c83de172",
               "sha256": "518dd69097ceef4b2f5b51603d930d7f5a334237c52b83f8d9822e58c83de172"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:e21da583e42e86d5a2f0aedfaf7820e51b8af3065da599cff179d1a39903f3ab",
               "sha256": "e21da583e42e86d5a2f0aedfaf7820e51b8af3065da599cff179d1a39903f3ab"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:51a9fd907163c4f99be93607db99668cbb3e115ff577f9413e5dd6e5d4070e2c",
               "sha256": "51a9fd907163c4f99be93607db99668cbb3e115ff577f9413e5dd6e5d4070e2c"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:e764118699fff81e4861a081d5e50546be2631a2fa2f58f4681dee6727648a87",
               "sha256": "e764118699fff81e4861a081d5e50546be2631a2fa2f58f4681dee6727648a87"
             },
             "tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:1f2c31483c9abd01e1ec3af7be8ca14f02a0cdc920313a8b3ab7d3b0b20a6386",
               "sha256": "1f2c31483c9abd01e1ec3af7be8ca14f02a0cdc920313a8b3ab7d3b0b20a6386"
             },
             "sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:2d5d6956ca6cafdcd541611c99eed16c0f7a3c7c217efb0141ecfed265716564",
               "sha256": "2d5d6956ca6cafdcd541611c99eed16c0f7a3c7c217efb0141ecfed265716564"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:bc8fdd21107bda1c93c82f90f4adad05b85d6b7d175df10d0d566a23a7fd5ab5",
               "sha256": "bc8fdd21107bda1c93c82f90f4adad05b85d6b7d175df10d0d566a23a7fd5ab5"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:40b0bb7a71de19ec68449a7f4f6c3816b625a6499e5119f476b3cec3df2d21ac",
               "sha256": "40b0bb7a71de19ec68449a7f4f6c3816b625a6499e5119f476b3cec3df2d21ac"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:d5f5f08846de66026cc3d4029e3202498ffb3996d4eca62623da85ade7b6f106",
               "sha256": "d5f5f08846de66026cc3d4029e3202498ffb3996d4eca62623da85ade7b6f106"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/mpdecimal-4.0.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/mpdecimal/blobs/sha256:f540928b0baae439b6b7bbbb54aa0b0d8fda3631a2fb46c1d1ccd6bf9c2b5389",
               "sha256": "f540928b0baae439b6b7bbbb54aa0b0d8fda3631a2fb46c1d1ccd6bf9c2b5389"
             }
           }
@@ -2941,11 +2941,11 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "all": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ni-27.0.0.all.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ni/blobs/sha256:88ed4a39b23f0ba5cd0933f9a25c5724ae1e4a5387ddca221e25454895978834",
               "sha256": "88ed4a39b23f0ba5cd0933f9a25c5724ae1e4a5387ddca221e25454895978834"
             }
           }
@@ -3189,36 +3189,36 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/node-24.10.0.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:c89ca22e152b63293e4323b427bffb3f4fae6b0cfd52d342a76d07a0a0db1fd0",
               "sha256": "c89ca22e152b63293e4323b427bffb3f4fae6b0cfd52d342a76d07a0a0db1fd0"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/node-24.10.0.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:b59155fcc0b6d1c75e5f5325179cd97d1fe6724d75e0cba0dd0bd4ae3f321cb7",
               "sha256": "b59155fcc0b6d1c75e5f5325179cd97d1fe6724d75e0cba0dd0bd4ae3f321cb7"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/node-24.10.0.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:37af88b764ea1a142c8b1148e6fd4fcd2f57eac2d68b0dc75c4b9a883dd1f745",
               "sha256": "37af88b764ea1a142c8b1148e6fd4fcd2f57eac2d68b0dc75c4b9a883dd1f745"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/node-24.10.0.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:7c4367eecd2baf026b90288615e5e8f04caf917170129d2bfab8017648eecbf7",
               "sha256": "7c4367eecd2baf026b90288615e5e8f04caf917170129d2bfab8017648eecbf7"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/node-24.10.0.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:452e05469390d8f9df7cf1acf15f0289c0209baac3ce63f07cd3e47365ddabcb",
               "sha256": "452e05469390d8f9df7cf1acf15f0289c0209baac3ce63f07cd3e47365ddabcb"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/node-24.10.0.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/node/blobs/sha256:410ceceb7654f10487dd822d503d710b728b41d5803b94acf7b195986dafb579",
               "sha256": "410ceceb7654f10487dd822d503d710b728b41d5803b94acf7b195986dafb579"
             }
           }
@@ -3467,46 +3467,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:932329036867164c28752b7b35f7808530b8cd79b72246bf122f36219a79d388",
               "sha256": "932329036867164c28752b7b35f7808530b8cd79b72246bf122f36219a79d388"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:9a8fa2ae1ef3424b116d7e6422d979e0290f4affdef072b1592e4535d2617d92",
               "sha256": "9a8fa2ae1ef3424b116d7e6422d979e0290f4affdef072b1592e4535d2617d92"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:055bf163fbfd98f5de31c25b1e8cac41129d3cb21581843f7ab30aec0c35bdf7",
               "sha256": "055bf163fbfd98f5de31c25b1e8cac41129d3cb21581843f7ab30aec0c35bdf7"
             },
             "tahoe": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:422323a6751ed7c4c198d97362d8967e20379daa287db7e8311ae036b9842d62",
               "sha256": "422323a6751ed7c4c198d97362d8967e20379daa287db7e8311ae036b9842d62"
             },
             "sequoia": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:a015d2e06290484b37547a57b60c6bc5bd45be0479e0c58529ffa4359a3f6225",
               "sha256": "a015d2e06290484b37547a57b60c6bc5bd45be0479e0c58529ffa4359a3f6225"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:cdf6125ff77ed7709a44a0ad95918801a3cfaadedbb66c781db7ccf9ab4fae58",
               "sha256": "cdf6125ff77ed7709a44a0ad95918801a3cfaadedbb66c781db7ccf9ab4fae58"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:257a655d8fcb65f1a7b2a0c4ae4cb7c8152454dacc806d7e24bc7457b299829a",
               "sha256": "257a655d8fcb65f1a7b2a0c4ae4cb7c8152454dacc806d7e24bc7457b299829a"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/openssl%403-3.6.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:dae10cea048eae154365f18fc51154093f8ba378ace3fe138f89dda08bf09e4e",
               "sha256": "dae10cea048eae154365f18fc51154093f8ba378ace3fe138f89dda08bf09e4e"
             }
           }
@@ -3621,51 +3621,51 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:c11090dbc1b3d2adfc60b57f98e0d2ff7b2516e5660771a85d40f208aac254e3",
               "sha256": "c11090dbc1b3d2adfc60b57f98e0d2ff7b2516e5660771a85d40f208aac254e3"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:6ddb89f2eef25f73e258a97bf4379539e24ea76e207fa3c0eb49222bdb656de2",
               "sha256": "6ddb89f2eef25f73e258a97bf4379539e24ea76e207fa3c0eb49222bdb656de2"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:71828b19933d1cd002d61e6cca11f22f4810bc0f8c5d0c98e9094362a80dcbeb",
               "sha256": "71828b19933d1cd002d61e6cca11f22f4810bc0f8c5d0c98e9094362a80dcbeb"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:6b38069079a641040e1cf8c408afbf902384d70bcc8fdbd445a9acc31e1e70d1",
               "sha256": "6b38069079a641040e1cf8c408afbf902384d70bcc8fdbd445a9acc31e1e70d1"
             },
             "tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:361022584a32a993bd36215b8dae43ec23caea95bb58881254bc31f943037ea4",
               "sha256": "361022584a32a993bd36215b8dae43ec23caea95bb58881254bc31f943037ea4"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:8de0e4e72fe26f37b904fbf124b7fb6672f8839b76c6bc6ee8b105ba647334a1",
               "sha256": "8de0e4e72fe26f37b904fbf124b7fb6672f8839b76c6bc6ee8b105ba647334a1"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:e71e438a81766aafffd719f90ba93cdaa158f91c08e19d96428fa841da15bd5a",
               "sha256": "e71e438a81766aafffd719f90ba93cdaa158f91c08e19d96428fa841da15bd5a"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:ca24c56a72883fcba1a51d2e0ccd7f0e8243026b63c9a7d9b72f33f289822ce0",
               "sha256": "ca24c56a72883fcba1a51d2e0ccd7f0e8243026b63c9a7d9b72f33f289822ce0"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pcre2-10.46.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pcre2/blobs/sha256:ceb1547e7a0f58c840a449ae638b83d3eeb224d7780f027f4eb096f0752df70b",
               "sha256": "ceb1547e7a0f58c840a449ae638b83d3eeb224d7780f027f4eb096f0752df70b"
             }
           }
@@ -3783,36 +3783,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pnpm-10.19.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pnpm/blobs/sha256:651dbb679201aad62ea8bc85197d36de3bb7c28967557350e810050de7d67237",
               "sha256": "651dbb679201aad62ea8bc85197d36de3bb7c28967557350e810050de7d67237"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pnpm-10.19.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pnpm/blobs/sha256:aae4cdf6c4aaf3e916247e7b0100327f25bbc194ce4a249c51ceca261b168557",
               "sha256": "aae4cdf6c4aaf3e916247e7b0100327f25bbc194ce4a249c51ceca261b168557"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pnpm-10.19.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pnpm/blobs/sha256:aae4cdf6c4aaf3e916247e7b0100327f25bbc194ce4a249c51ceca261b168557",
               "sha256": "aae4cdf6c4aaf3e916247e7b0100327f25bbc194ce4a249c51ceca261b168557"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pnpm-10.19.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pnpm/blobs/sha256:e8b8e6e86db3085e7e5a0050dba7065921aefa7c86615f759761e36d4beea27f",
               "sha256": "e8b8e6e86db3085e7e5a0050dba7065921aefa7c86615f759761e36d4beea27f"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pnpm-10.19.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pnpm/blobs/sha256:b2957876d88aeb912d8e6a0c1a55034f11249bcfe6c9be53d9622982779dbf95",
               "sha256": "b2957876d88aeb912d8e6a0c1a55034f11249bcfe6c9be53d9622982779dbf95"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/pnpm-10.19.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/pnpm/blobs/sha256:b2957876d88aeb912d8e6a0c1a55034f11249bcfe6c9be53d9622982779dbf95",
               "sha256": "b2957876d88aeb912d8e6a0c1a55034f11249bcfe6c9be53d9622982779dbf95"
             }
           }
@@ -3914,36 +3914,36 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/postgresql%4014-14.19.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:f654ad5909a87ed4081380315edf82329301abbff4e01fd4641073ea332fb3b6",
               "sha256": "f654ad5909a87ed4081380315edf82329301abbff4e01fd4641073ea332fb3b6"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/postgresql%4014-14.19.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:0254f39e196653fcd93ba8462fb0a33655c4b7dff7b961d21c9c53d4e473ad3f",
               "sha256": "0254f39e196653fcd93ba8462fb0a33655c4b7dff7b961d21c9c53d4e473ad3f"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/postgresql%4014-14.19.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:b6d6b2344659a64b785164918e8019d39ee039e34710c584ae05729e785dc13e",
               "sha256": "b6d6b2344659a64b785164918e8019d39ee039e34710c584ae05729e785dc13e"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/postgresql%4014-14.19.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:771ebb371c41a42d72d9d1b3b9dd9dadb0298c293c9629ea479daa8b0222f9f9",
               "sha256": "771ebb371c41a42d72d9d1b3b9dd9dadb0298c293c9629ea479daa8b0222f9f9"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/postgresql%4014-14.19.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:7ccd62cb69a764c4a73ad09ba5e21e53abe56b1966e88f6c971b7547359eaf9c",
               "sha256": "7ccd62cb69a764c4a73ad09ba5e21e53abe56b1966e88f6c971b7547359eaf9c"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/postgresql%4014-14.19.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/postgresql/14/blobs/sha256:64f1d1dea887cf2d97220eb572e8cbd4e017d09ef0cc3db8707141462371dc8e",
               "sha256": "64f1d1dea887cf2d97220eb572e8cbd4e017d09ef0cc3db8707141462371dc8e"
             }
           }
@@ -4123,46 +4123,46 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:be242b10f709d6e9f0332ebc2c811ba4c9dc183212f3128386d7a055470c69f9",
               "sha256": "be242b10f709d6e9f0332ebc2c811ba4c9dc183212f3128386d7a055470c69f9"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:e7f6cf86e3b14f81d66826248f946c189311629f97c944ed1f07c20055552f63",
               "sha256": "e7f6cf86e3b14f81d66826248f946c189311629f97c944ed1f07c20055552f63"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:6ad9d4fd4b12ff476c3f5300ebea4940210d8b3a2ac39895efc5d746baa074ad",
               "sha256": "6ad9d4fd4b12ff476c3f5300ebea4940210d8b3a2ac39895efc5d746baa074ad"
             },
             "tahoe": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:8afb815bffe5891e88f63916b5c21ac18d7e4b4614ea3fb8462113fd82449a3e",
               "sha256": "8afb815bffe5891e88f63916b5c21ac18d7e4b4614ea3fb8462113fd82449a3e"
             },
             "sequoia": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:f61e3805bff8ac0f43614d0e37bebecc7b9fc9d61fbb4f177adce39f8e9688b8",
               "sha256": "f61e3805bff8ac0f43614d0e37bebecc7b9fc9d61fbb4f177adce39f8e9688b8"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:2d276a05fa3a3c34c31394c6613b31f7c783f411c639538d69468da3f67364de",
               "sha256": "2d276a05fa3a3c34c31394c6613b31f7c783f411c639538d69468da3f67364de"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:e59a11335831960b55f1e285c8ba15731cf48d2c658a137ccc04de9e21300825",
               "sha256": "e59a11335831960b55f1e285c8ba15731cf48d2c658a137ccc04de9e21300825"
             },
             "x86_64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/python%403.14-3.14.0.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/python/3.14/blobs/sha256:53794199175cae58badc3b82a776923ebd5d0bfe769380b988484dfe44d8bda0",
               "sha256": "53794199175cae58badc3b82a776923ebd5d0bfe769380b988484dfe44d8bda0"
             }
           }
@@ -4358,56 +4358,56 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:faa8450e4edc3b34ed521de8e46b48ab12d29f16ae58648178a769287da573cc",
               "sha256": "faa8450e4edc3b34ed521de8e46b48ab12d29f16ae58648178a769287da573cc"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:3afa0c228ce704810d09d40ce7d1265777df8b9034a7bfc18f0f4c19094710a8",
               "sha256": "3afa0c228ce704810d09d40ce7d1265777df8b9034a7bfc18f0f4c19094710a8"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:51a9a7122a89fd2464fc631f8c31721afc700b3b220ed8b0c23655514b04db73",
               "sha256": "51a9a7122a89fd2464fc631f8c31721afc700b3b220ed8b0c23655514b04db73"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:5788e1e5f713d5253edfc4b9d137d384b692fee6de1c79af3dba18fa7efd31c3",
               "sha256": "5788e1e5f713d5253edfc4b9d137d384b692fee6de1c79af3dba18fa7efd31c3"
             },
             "tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:539e73fcb36921fdc276f60fe7b9c2eb9ea81876468e44457e3566f04650190f",
               "sha256": "539e73fcb36921fdc276f60fe7b9c2eb9ea81876468e44457e3566f04650190f"
             },
             "sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:85d56c6896ac184bf38b1b0867d050235fb0a4873c152b52a46748aa1b458ec9",
               "sha256": "85d56c6896ac184bf38b1b0867d050235fb0a4873c152b52a46748aa1b458ec9"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:1ca59c2fba1ae707b3c893bc237c6638c5140fd73795e76fb186b1176b5931ff",
               "sha256": "1ca59c2fba1ae707b3c893bc237c6638c5140fd73795e76fb186b1176b5931ff"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:722187db867ece23e06d6e1ce4b67190d602e2b456e113a9b3c5e3930de923d8",
               "sha256": "722187db867ece23e06d6e1ce4b67190d602e2b456e113a9b3c5e3930de923d8"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:64ab04c378cb3546baef10c3804ce5c1f3ec70a293df98b8e48b674e123c28b7",
               "sha256": "64ab04c378cb3546baef10c3804ce5c1f3ec70a293df98b8e48b674e123c28b7"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/readline-8.3.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:148c40946804e22da82f0864b458d1eb01f23b9cf30c7b9f10501853b92ad33a",
               "sha256": "148c40946804e22da82f0864b458d1eb01f23b9cf30c7b9f10501853b92ad33a"
             }
           }
@@ -4507,36 +4507,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/simdjson-4.0.7.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/simdjson/blobs/sha256:e1d7f98b560e026ccbf9ef734837b619d1af2eac6e13bf2f0732423271660f1e",
               "sha256": "e1d7f98b560e026ccbf9ef734837b619d1af2eac6e13bf2f0732423271660f1e"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/simdjson-4.0.7.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/simdjson/blobs/sha256:8474462783d068f9d841733101667cd2d66438a87c56264809a064be19ecd2dc",
               "sha256": "8474462783d068f9d841733101667cd2d66438a87c56264809a064be19ecd2dc"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/simdjson-4.0.7.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/simdjson/blobs/sha256:efc4c4ec1841704e75320815c1fcc6e33151c179e7fc0ea3d9053c39e2858455",
               "sha256": "efc4c4ec1841704e75320815c1fcc6e33151c179e7fc0ea3d9053c39e2858455"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/simdjson-4.0.7.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/simdjson/blobs/sha256:a19a84d0b4cd38378280d0d1cf2407b90b933bdf70242fc2cc455e4561b6504f",
               "sha256": "a19a84d0b4cd38378280d0d1cf2407b90b933bdf70242fc2cc455e4561b6504f"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/simdjson-4.0.7.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/simdjson/blobs/sha256:dd147fccc75f358859580be164fa881314c3a40a02234b1b784122154db76ccf",
               "sha256": "dd147fccc75f358859580be164fa881314c3a40a02234b1b784122154db76ccf"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/simdjson-4.0.7.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/simdjson/blobs/sha256:aff7b130042aee330962b712ca2b08c10f68e54d9382275a185c8c87e9a2ea6f",
               "sha256": "aff7b130042aee330962b712ca2b08c10f68e54d9382275a185c8c87e9a2ea6f"
             }
           }
@@ -4628,46 +4628,46 @@
       "bottle": {
         "stable": {
           "rebuild": 2,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.arm64_tahoe.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:31e1f0e39f81417f6c13a81881077df7368fbb3c53b8af5ff5f6bae9e0f7c44d",
               "sha256": "31e1f0e39f81417f6c13a81881077df7368fbb3c53b8af5ff5f6bae9e0f7c44d"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.arm64_sequoia.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:ac752e123cff9ffd69bfd3477fb151b8df8363c94b9f6a14ba1a6443b62964e2",
               "sha256": "ac752e123cff9ffd69bfd3477fb151b8df8363c94b9f6a14ba1a6443b62964e2"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.arm64_sonoma.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:99c818a03cf2392120ba9a9375f4d42e95bacd5e498c72a4679a0158e5d09598",
               "sha256": "99c818a03cf2392120ba9a9375f4d42e95bacd5e498c72a4679a0158e5d09598"
             },
             "tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.tahoe.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:2a2bb78a7a499c34c5dbce0ac8d97c11de25c6cbf69354e7b0e5bbd53a1ea16f",
               "sha256": "2a2bb78a7a499c34c5dbce0ac8d97c11de25c6cbf69354e7b0e5bbd53a1ea16f"
             },
             "sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.sequoia.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:6c3265b83d4f30bde5b89f3b0138b0eb8c4c1db12a08f61071c87fecd7bc2474",
               "sha256": "6c3265b83d4f30bde5b89f3b0138b0eb8c4c1db12a08f61071c87fecd7bc2474"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.sonoma.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:7fb7b19471eb64e746e4c554a8c6b7ad6a42a098cbcae4593cda256e6d17595d",
               "sha256": "7fb7b19471eb64e746e4c554a8c6b7ad6a42a098cbcae4593cda256e6d17595d"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.arm64_linux.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:7d50fbc199067fb17f4746ccca988d30e66e873e7846ba60f23055263eefd2fa",
               "sha256": "7d50fbc199067fb17f4746ccca988d30e66e873e7846ba60f23055263eefd2fa"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/sqlite-3.50.4.x86_64_linux.bottle.2.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/sqlite/blobs/sha256:d501561e75552df13a16be24d28edf34bb85215ffae73b87d75b9c58308dd360",
               "sha256": "d501561e75552df13a16be24d28edf34bb85215ffae73b87d75b9c58308dd360"
             }
           }
@@ -4778,46 +4778,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:eeab5916c6dd4e1983b13930d2f0ab878e28e6e4ed00adc7fbe5835e564d0971",
               "sha256": "eeab5916c6dd4e1983b13930d2f0ab878e28e6e4ed00adc7fbe5835e564d0971"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:e0f085c4ec44508be2fda1fd8d89ef9d7cc2207026e7db1da5a9d922d7046498",
               "sha256": "e0f085c4ec44508be2fda1fd8d89ef9d7cc2207026e7db1da5a9d922d7046498"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:c8a074bbded5edb346475e4bf3c6faecc13b15486cd75ffd7dc102c65369adad",
               "sha256": "c8a074bbded5edb346475e4bf3c6faecc13b15486cd75ffd7dc102c65369adad"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:75d22389bb70b46e23553898ce23d583a4cfb5a3b6de712952da815f980c5511",
               "sha256": "75d22389bb70b46e23553898ce23d583a4cfb5a3b6de712952da815f980c5511"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:f0df06b16b67cb040c0f139dddd7df3df7985ccd8be93ac31a17e9dbb8a354b2",
               "sha256": "f0df06b16b67cb040c0f139dddd7df3df7985ccd8be93ac31a17e9dbb8a354b2"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:18594cec9c012f3bc91272d79a5d0edf6143a64122f8c1f99b6b253c12b8483b",
               "sha256": "18594cec9c012f3bc91272d79a5d0edf6143a64122f8c1f99b6b253c12b8483b"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:2eaa4272f26775db67f3ed107e97a4392d96adcfcbdf5141e5ba696987e23051",
               "sha256": "2eaa4272f26775db67f3ed107e97a4392d96adcfcbdf5141e5ba696987e23051"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/starship-1.23.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/starship/blobs/sha256:80cfca3624de24391aa69ce0c357a669e793384410cbc3b9facd982c0f1b437d",
               "sha256": "80cfca3624de24391aa69ce0c357a669e793384410cbc3b9facd982c0f1b437d"
             }
           }
@@ -4913,46 +4913,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:ef884002e8601fb801ed14e025d3138a48b74b8a4fa735230a849d4ce0d0fa8c",
               "sha256": "ef884002e8601fb801ed14e025d3138a48b74b8a4fa735230a849d4ce0d0fa8c"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:ccfac896234e1c63841b421873387c407f375af7e6db54abea549d24e3c69589",
               "sha256": "ccfac896234e1c63841b421873387c407f375af7e6db54abea549d24e3c69589"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:a290f08288dc441d0842aeb0fc5d27e2ebb890ad0ef03680c08fddf4b6281252",
               "sha256": "a290f08288dc441d0842aeb0fc5d27e2ebb890ad0ef03680c08fddf4b6281252"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:a4eded180a935460b5b2d0cc50504197e29d4b9cbd04d20b800860c73e81d930",
               "sha256": "a4eded180a935460b5b2d0cc50504197e29d4b9cbd04d20b800860c73e81d930"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:a6d54f8fe160c9508e5a85b4245900a9458200cac58e5a2105eef7fa75564884",
               "sha256": "a6d54f8fe160c9508e5a85b4245900a9458200cac58e5a2105eef7fa75564884"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:834f7d3715e67ca1b3b24fc3979c0290ab81e0fdd22ad971c8d25746457a6693",
               "sha256": "834f7d3715e67ca1b3b24fc3979c0290ab81e0fdd22ad971c8d25746457a6693"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:3f416641929a817a779910d616492604eece253c52fb062034a1822cd953cf76",
               "sha256": "3f416641929a817a779910d616492604eece253c52fb062034a1822cd953cf76"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/tree-2.2.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/tree/blobs/sha256:45f02a1a405f4782d3e26963f7f37b3842e9857b06cd36cc0e5945cbeeb55758",
               "sha256": "45f02a1a405f4782d3e26963f7f37b3842e9857b06cd36cc0e5945cbeeb55758"
             }
           }
@@ -5040,46 +5040,46 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:fc463b3cd1c674c21631a538ee8a4203c05a193a901c3d1df37f1d8a16ec602f",
               "sha256": "fc463b3cd1c674c21631a538ee8a4203c05a193a901c3d1df37f1d8a16ec602f"
             },
             "arm64_sequoia": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:80ef6af211355394f755ac8eed4509da7b796c1aaae345d91143fbfb8848e26d",
               "sha256": "80ef6af211355394f755ac8eed4509da7b796c1aaae345d91143fbfb8848e26d"
             },
             "arm64_sonoma": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:f74e5ac31fc95e4024ba9a81c69ee132d99d04a76da3a399c4329c30e4ae42a9",
               "sha256": "f74e5ac31fc95e4024ba9a81c69ee132d99d04a76da3a399c4329c30e4ae42a9"
             },
             "arm64_ventura": {
               "cellar": "/opt/homebrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:308d7ef1bbbef4976e9099aed9221e0a5baab08be7fb0d3da25b6f0e7b5ff19e",
               "sha256": "308d7ef1bbbef4976e9099aed9221e0a5baab08be7fb0d3da25b6f0e7b5ff19e"
             },
             "sonoma": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:ae44222b4e6352ea6d2e2d93db3d6c47b9b85f134fca64cfa849c77de18e690c",
               "sha256": "ae44222b4e6352ea6d2e2d93db3d6c47b9b85f134fca64cfa849c77de18e690c"
             },
             "ventura": {
               "cellar": "/usr/local/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:82d872bce269b881df93402ae5a7c6bd959d0e3b7b0357109e8703f6e3a15d60",
               "sha256": "82d872bce269b881df93402ae5a7c6bd959d0e3b7b0357109e8703f6e3a15d60"
             },
             "arm64_linux": {
               "cellar": "/home/linuxbrew/.linuxbrew/Cellar",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:fec5451d72d8c9ba9aa4981373bb40a0e1b14ce199da29ae14f62fa7e942b24f",
               "sha256": "fec5451d72d8c9ba9aa4981373bb40a0e1b14ce199da29ae14f62fa7e942b24f"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/ugrep-7.5.0.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/ugrep/blobs/sha256:d50d7e87b82652b8b5a81852c9ef9dcc0f90daa8bab26226e702780f2a323636",
               "sha256": "d50d7e87b82652b8b5a81852c9ef9dcc0f90daa8bab26226e702780f2a323636"
             }
           }
@@ -5225,36 +5225,36 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uv-0.9.4.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:9a58c61aacf6f1c2df38cb7e818fc41afad20044484965bd35f7b8257d216121",
               "sha256": "9a58c61aacf6f1c2df38cb7e818fc41afad20044484965bd35f7b8257d216121"
             },
             "arm64_sequoia": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uv-0.9.4.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:7f327362f707bb833a6852ef2a3ae86f89dc6a57bc43288502442b766c617303",
               "sha256": "7f327362f707bb833a6852ef2a3ae86f89dc6a57bc43288502442b766c617303"
             },
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uv-0.9.4.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:c60b5172a227eca2712c9f007b1cd00ec165f52d8a3e7d18d61678a3a1e556f9",
               "sha256": "c60b5172a227eca2712c9f007b1cd00ec165f52d8a3e7d18d61678a3a1e556f9"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uv-0.9.4.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:1474b8a224f2b446fb5c7194b90347dfc5dd958e36be77d70cfbd2a7830549fe",
               "sha256": "1474b8a224f2b446fb5c7194b90347dfc5dd958e36be77d70cfbd2a7830549fe"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uv-0.9.4.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:ec1925e90440aeda90914e623f58e688ec6607376b3325c9d2dedc217ec75405",
               "sha256": "ec1925e90440aeda90914e623f58e688ec6607376b3325c9d2dedc217ec75405"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uv-0.9.4.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uv/blobs/sha256:91d14cce9a90154ecd04508daf8ae5cdcdb9f07328cb1a6a22b6a37fc7f7822c",
               "sha256": "91d14cce9a90154ecd04508daf8ae5cdcdb9f07328cb1a6a22b6a37fc7f7822c"
             }
           }
@@ -5360,36 +5360,36 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uvwasi-0.0.23.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:c2742f168c40ecdcf97566b4bbca3419dc010995edbd25fd2805c45cccbe11fd",
               "sha256": "c2742f168c40ecdcf97566b4bbca3419dc010995edbd25fd2805c45cccbe11fd"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uvwasi-0.0.23.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:3bbe2380eb184f540f5b23a9cd2f92ef21a4779b04ff6068b6c3a0b4e7865c7e",
               "sha256": "3bbe2380eb184f540f5b23a9cd2f92ef21a4779b04ff6068b6c3a0b4e7865c7e"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uvwasi-0.0.23.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:923e457efe87a95fd53031ca80440ce09ab3862a9ac7df374b3fe634c7001c23",
               "sha256": "923e457efe87a95fd53031ca80440ce09ab3862a9ac7df374b3fe634c7001c23"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uvwasi-0.0.23.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:74534d557b0603f0fac5d6b4e98257bee2f372c55e0eabf97b0ac5ccbd10415d",
               "sha256": "74534d557b0603f0fac5d6b4e98257bee2f372c55e0eabf97b0ac5ccbd10415d"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uvwasi-0.0.23.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:bc607f16b816da2d32a2d8a3eec770c64f8a497524dd1a33d5b6f252db0ac44d",
               "sha256": "bc607f16b816da2d32a2d8a3eec770c64f8a497524dd1a33d5b6f252db0ac44d"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/uvwasi-0.0.23.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/uvwasi/blobs/sha256:2befd108f0cf4fffab4832dc834e0b7c4b8aec470ad95994435792c6b3ab9bcc",
               "sha256": "2befd108f0cf4fffab4832dc834e0b7c4b8aec470ad95994435792c6b3ab9bcc"
             }
           }
@@ -5490,56 +5490,56 @@
       "bottle": {
         "stable": {
           "rebuild": 0,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.arm64_tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:a9ee5b57b2c49e1a8e1c637f44adaf3632e5b3e79385326f93a162457b36d7b3",
               "sha256": "a9ee5b57b2c49e1a8e1c637f44adaf3632e5b3e79385326f93a162457b36d7b3"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.arm64_sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:dcd7823f2624cbcd08f55c232097a79300c7d76ab5969004db1a4785c6c0cd87",
               "sha256": "dcd7823f2624cbcd08f55c232097a79300c7d76ab5969004db1a4785c6c0cd87"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.arm64_sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:3bcdfeaa8b5bd910ac1cf1e7aec7e0fd82fd69f2f09c6ac682eca92725ad9e6c",
               "sha256": "3bcdfeaa8b5bd910ac1cf1e7aec7e0fd82fd69f2f09c6ac682eca92725ad9e6c"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.arm64_ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:82fef9b66eea967b55cd0f26fd7356d60a0b926c5d9eaaf9c300a46f21391af5",
               "sha256": "82fef9b66eea967b55cd0f26fd7356d60a0b926c5d9eaaf9c300a46f21391af5"
             },
             "tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.tahoe.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:ce65e4c93e377bef7e6fc7df69689f157dc1bc4fcbda1c8108ace99b9e88970c",
               "sha256": "ce65e4c93e377bef7e6fc7df69689f157dc1bc4fcbda1c8108ace99b9e88970c"
             },
             "sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.sequoia.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:6558e19cb2f13893677ec1fe075d268a69ce242a064ce1dc53940234da4b2c5f",
               "sha256": "6558e19cb2f13893677ec1fe075d268a69ce242a064ce1dc53940234da4b2c5f"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.sonoma.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:87c3638621021437d470c7f650336da533fa41222dfe54b94473bbea2acf6bbd",
               "sha256": "87c3638621021437d470c7f650336da533fa41222dfe54b94473bbea2acf6bbd"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.ventura.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:c0aedd30a078e08c7e67107506c61348d8259a2dce40697b77ff76f8c0dfc6d8",
               "sha256": "c0aedd30a078e08c7e67107506c61348d8259a2dce40697b77ff76f8c0dfc6d8"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.arm64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:b246348ec4cc8643918e3c13b9f554e5ddede3d07e7e1c60eaba5b97120d473a",
               "sha256": "b246348ec4cc8643918e3c13b9f554e5ddede3d07e7e1c60eaba5b97120d473a"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/xz-5.8.1.x86_64_linux.bottle.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/xz/blobs/sha256:9ee1ff38fcc213fdefd262be65a06669f3e0118a2bd5fb387147ebe884f94413",
               "sha256": "9ee1ff38fcc213fdefd262be65a06669f3e0118a2bd5fb387147ebe884f94413"
             }
           }
@@ -5627,11 +5627,11 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "all": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/yarn-1.22.22.all.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/yarn/blobs/sha256:edb63a1b15d560263270324b63bee4c2aa8145197636a755436cc14424fc1e12",
               "sha256": "edb63a1b15d560263270324b63bee4c2aa8145197636a755436cc14424fc1e12"
             }
           }
@@ -5732,56 +5732,56 @@
       "bottle": {
         "stable": {
           "rebuild": 1,
-          "root_url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles",
+          "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.arm64_tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:ddb0c145060bc2366ce5d58d95aa205bb15cb4c66948f20bb85e23fdb5eba7e9",
               "sha256": "ddb0c145060bc2366ce5d58d95aa205bb15cb4c66948f20bb85e23fdb5eba7e9"
             },
             "arm64_sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.arm64_sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:55a4e0a4a92f5cf4885295214914de4aefad2389884085185e9ce87b4edae946",
               "sha256": "55a4e0a4a92f5cf4885295214914de4aefad2389884085185e9ce87b4edae946"
             },
             "arm64_sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.arm64_sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:60c34a6a3cadf1fc35026cde7598fbe7b59bd2e5996c4baf49640094b4ffeb37",
               "sha256": "60c34a6a3cadf1fc35026cde7598fbe7b59bd2e5996c4baf49640094b4ffeb37"
             },
             "arm64_ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.arm64_ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:2332527b27c6661bf501980bd71a5b4fe1b417122bf8b37d9f082e47b377b7f9",
               "sha256": "2332527b27c6661bf501980bd71a5b4fe1b417122bf8b37d9f082e47b377b7f9"
             },
             "tahoe": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.tahoe.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:873feb2d747bb21708c0229bb977364d0794e65bccbf18e33934a424342e83a1",
               "sha256": "873feb2d747bb21708c0229bb977364d0794e65bccbf18e33934a424342e83a1"
             },
             "sequoia": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.sequoia.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:342e64c01287a716615d14d4a71770fc5930871dc0a965fbdda6062f80dc1952",
               "sha256": "342e64c01287a716615d14d4a71770fc5930871dc0a965fbdda6062f80dc1952"
             },
             "sonoma": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.sonoma.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:77457805185cd2c70fe81245b9e2d1a3e178a1be55e032eb504391dbd4d4e9ab",
               "sha256": "77457805185cd2c70fe81245b9e2d1a3e178a1be55e032eb504391dbd4d4e9ab"
             },
             "ventura": {
               "cellar": ":any",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.ventura.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:c7b411aee72bc1e36d9a2647059433da62a0ca9a4cc7baeb44a2226e0a0de8b8",
               "sha256": "c7b411aee72bc1e36d9a2647059433da62a0ca9a4cc7baeb44a2226e0a0de8b8"
             },
             "arm64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.arm64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:2148094d7e41ccbe0ac29f351d6544093d45ff0aa41f0ff90f3e3b0c594d824a",
               "sha256": "2148094d7e41ccbe0ac29f351d6544093d45ff0aa41f0ff90f3e3b0c594d824a"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://mirrors.ustc.edu.cn/homebrew-bottles/bottles/zstd-1.5.7.x86_64_linux.bottle.1.tar.gz",
+              "url": "https://ghcr.io/v2/homebrew/core/zstd/blobs/sha256:ecd3f9ef36c6f9b324a36c33727962c37be5d12fdbe330e9b863112f24c49e11",
               "sha256": "ecd3f9ef36c6f9b324a36c33727962c37be5d12fdbe330e9b863112f24c49e11"
             }
           }
