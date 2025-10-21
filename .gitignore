@@ -1,2 +1,9 @@
 # 日志文件
 *.log
+
+# VS Code 配置备份文件
+vscode-config/*.backup
+vscode-config/.DS_Store
+
+# macOS 系统文件
+.DS_Store
