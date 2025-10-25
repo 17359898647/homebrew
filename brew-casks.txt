@@ -4,12 +4,12 @@ alfred
 apifox
 arc
 asana
-claude-code
 easydict
 figma
 font-jetbrains-mono-nerd-font
 git-credential-manager
 github
+google-chrome
 hoppscotch
 iterm2
 orbstack
