@@ -25,7 +25,7 @@ openssl@3
 pcre2
 pnpm
 postgresql@14
-python@3.14
+python@3.11
 readline
 simdjson
 sqlite
