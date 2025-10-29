@@ -1,3 +1,4 @@
+brew "asimov", restart_service: :changed
 brew "duti"
 brew "fish"
 brew "fzf"
@@ -16,7 +17,6 @@ brew "tree"
 brew "ugrep"
 brew "uv"
 brew "yarn"
-cask "1password"
 cask "1password-cli"
 cask "alfred"
 cask "apifox"
