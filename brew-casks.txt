@@ -5,6 +5,7 @@ apifox
 arc
 asana
 claude-code
+codex
 easydict
 figma
 font-jetbrains-mono-nerd-font
@@ -14,6 +15,7 @@ google-chrome
 hoppscotch
 iterm2
 orbstack
+qq
 qspace-pro
 rectangle-pro
 slack

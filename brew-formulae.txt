@@ -1,4 +1,5 @@
 asimov
+bash
 brotli
 c-ares
 ca-certificates
@@ -11,6 +12,7 @@ git
 go
 gofumpt
 icu4c@77
+jq
 krb5
 libnghttp2
 libnghttp3
@@ -20,14 +22,17 @@ libuv
 lz4
 mkcert
 mpdecimal
+ncurses
 ni
 node
+oniguruma
 openssl@3
 pcre2
 pnpm
 postgresql@14
 python@3.11
 readline
+ripgrep
 simdjson
 sqlite
 starship
