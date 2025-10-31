@@ -6,6 +6,7 @@ arc
 asana
 claude-code
 codex
+droid
 easydict
 figma
 font-jetbrains-mono-nerd-font
