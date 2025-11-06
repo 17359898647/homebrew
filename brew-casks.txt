@@ -1,6 +1,7 @@
 1password
 1password-cli
 alfred
+another-redis-desktop-manager
 apifox
 arc
 asana

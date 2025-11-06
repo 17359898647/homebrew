@@ -1,4 +1,5 @@
 asimov
+bacon
 bash
 brotli
 c-ares
@@ -33,6 +34,7 @@ postgresql@14
 python@3.11
 readline
 ripgrep
+rustup
 simdjson
 sqlite
 starship
