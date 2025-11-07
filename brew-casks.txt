@@ -22,6 +22,7 @@ rectangle-pro
 slack
 snipaste
 stats
+sunloginclient
 visual-studio-code
 webstorm
 wechat
