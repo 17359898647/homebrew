@@ -10,6 +10,7 @@ fzf
 gettext
 gh
 git
+github-mcp-server
 go
 gofumpt
 icu4c@77
