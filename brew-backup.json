@@ -7568,11 +7568,11 @@
       "autobump": true,
       "no_autobump_message": null,
       "skip_livecheck": false,
-      "installed": "2.0.34",
-      "installed_time": 1762411526,
+      "installed": "2.0.35",
+      "installed_time": 1762553160,
       "bundle_version": null,
       "bundle_short_version": null,
-      "outdated": true,
+      "outdated": false,
       "sha256": "4cd1ae9a4b31ded38e083a6ab7f4b84f2164422ac3c6ef8d1847229f48b0bb29",
       "artifacts": [
         {
