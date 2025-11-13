@@ -6848,8 +6848,8 @@
       "skip_livecheck": false,
       "installed": "1.117.0,69739",
       "installed_time": 1760913191,
-      "bundle_version": "70075",
-      "bundle_short_version": "1.119.0",
+      "bundle_version": "70500",
+      "bundle_short_version": "1.120.0",
       "outdated": false,
       "sha256": "5135cbb1b8ed0c38a0a6f030f3c83873d7e492f317f1699fd03e6fc12b63fceb",
       "artifacts": [
