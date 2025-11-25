@@ -436,5 +436,15 @@
   "extensions.ignoreRecommendations": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "githubPullRequests.pullBranch": "never",
-  "python.analysis.typeCheckingMode": "standard"
+  "python.analysis.typeCheckingMode": "standard",
+
+    // 禁用基于文件权限的只读保护
+  "files.readonlyFromPermissions": false,
+
+  // 禁用 node_modules 自动只读
+  "files.readonlyInclude": {},
+
+  // Git 配置
+  "git.decorations.enabled": true,
+  "git.ignoreLimitWarning": true
 }
