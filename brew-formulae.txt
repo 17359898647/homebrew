@@ -7,7 +7,6 @@ ca-certificates
 duti
 fish
 fzf
-gemini-cli
 gettext
 gh
 git
@@ -17,6 +16,7 @@ gofumpt
 icu4c@78
 jq
 krb5
+libiconv
 libnghttp2
 libnghttp3
 libngtcp2
