@@ -5,6 +5,7 @@ another-redis-desktop-manager
 apifox
 arc
 asana
+cc-switch
 claude-code
 codex
 droid

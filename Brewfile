@@ -1,3 +1,4 @@
+tap "farion1231/ccswitch"
 brew "asimov", restart_service: :changed
 brew "bacon"
 brew "bash"
@@ -31,6 +32,7 @@ cask "another-redis-desktop-manager"
 cask "apifox"
 cask "arc"
 cask "asana"
+cask "farion1231/ccswitch/cc-switch"
 cask "claude-code"
 cask "codex"
 cask "droid"
